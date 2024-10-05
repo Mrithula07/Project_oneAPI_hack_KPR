@@ -39,3 +39,6 @@ This project implements a Face Liveness Detection system designed to prevent spo
 - **Flask**: As the web framework for the backend server.
 - **React**: For building an interactive frontend user interface.
 - **Intel OneAPI**: To optimize performance on Intel hardware.
+
+- ##Note:
+- **Face liveness** and **anti spoofing** are present in the master branch
